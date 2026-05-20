@@ -28,7 +28,6 @@ https://www.coze.cn/store/agent/7640007535868690451?bot_id=true
 
 覆盖正常检索、口语化查询、兜底触发等场景。
 ![测试](test-log.md)
-![截图](assets.doc)
 
 ## 技术栈
 
